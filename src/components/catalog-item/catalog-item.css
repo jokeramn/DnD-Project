@@ -1,0 +1,9 @@
+.catalog__item {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 20px;
+}
+
+.catalog__item:not(:last-child) {
+  margin-bottom: 20px;
+}

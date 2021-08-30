@@ -1,0 +1,9 @@
+.catalog__list {
+  max-width: 400px;
+  list-style: none;
+  padding: 10px;
+  height: 70vh;
+  border-radius: 3px;
+  overflow-y: scroll;
+  background-color: bisque;
+}

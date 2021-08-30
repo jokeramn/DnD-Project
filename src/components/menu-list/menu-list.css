@@ -1,0 +1,14 @@
+.menu__list {
+  width: 30%;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu__item:hover {
+  color: #815121;
+}
+
+.menu__item {
+  transition: .3s;
+}
